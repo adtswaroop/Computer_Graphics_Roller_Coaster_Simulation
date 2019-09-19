@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (F:\Padhai\USC\USC Studies\CSCI-420 Computer Graphics\Assignment 2\hw2 - working\hw1-starterCode\\Bin\Debug\) contains files shared from another project (hw1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hw2.cpp
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(287): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(289): warning C4305: '+=': truncation from 'double' to 'float'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(317): warning C4018: '<=': signed/unsigned mismatch
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(263): warning C4101: 'prev_vertice': unreferenced local variable
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(264): warning C4101: 'curr_vertice': unreferenced local variable
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(382): warning C4018: '<': signed/unsigned mismatch
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(701): warning C4018: '<': signed/unsigned mismatch
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(1279): warning C4018: '<': signed/unsigned mismatch
+f:\padhai\usc\usc studies\csci-420 computer graphics\assignment 2\hw2 - working\hw1-startercode\hw2.cpp(1300): warning C4305: 'argument': truncation from 'double' to 'float'
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> F:\Padhai\USC\USC Studies\CSCI-420 Computer Graphics\Assignment 2\hw2 - working\hw1-starterCode\\Bin\Debug\hw2.exe
