@@ -2,6 +2,7 @@ This project uses Catmull-Rom splines along with OpenGL core profile shader-base
 Two shaders implementation: one for texture mapping (to render the ground), and one for Phong shading (to render the roller coaster rail). 
 The simulation runs in a first-person view, allowing the user to "ride" the coaster in an immersive environment.
 
+![](animation/400.jpg)
 
 *Core Features*
 - Used Catmull-Rom Splines to render the Track
